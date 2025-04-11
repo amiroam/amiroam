@@ -1,14 +1,15 @@
 <div align="center">
 
 ```
+  
 ███████╗ ██████╗ ██████╗ ███████╗███╗   ██╗██╗███╗   ███╗
 ██╔════╝██╔═══██╗██╔══██╗██╔════╝████╗  ██║██║████╗ ████║
 █████╗  ██║   ██║██████╔╝███████╗██╔██╗ ██║██║██╔████╔██║
 ██╔══╝  ██║   ██║██╔═══╝ ╚════██║██║╚██╗██║██║██║╚██╔╝██║
 ██║     ╚██████╔╝██║     ███████║██║ ╚████║██║██║ ╚═╝ ██║
 ╚═╝      ╚═════╝ ╚═╝     ╚══════╝╚═╝  ╚═══╝╚═╝╚═╝     ╚═╝
-```
 
+```
 </div>
 <h1 style="color:#f8f8f2; font-family:monospace; font-size:30px;">
 👾 [ SYSTEM INITIALIZED SUCCESSFULLY ] 👾
@@ -78,20 +79,6 @@
     </ul>
   </ul>
 </div>
-
-
----
-
-<div align="center">
-  <h2 style="color:#50fa7b; font-family:monospace;">💻 [ SYSTEM INFORMATION ] 💻</h2>
-</div>
-
-<ul style="font-family:monospace; font-size:16px; list-style:none; padding:0;">
-  <li>🔧 <strong>Name:</strong> Amir</li>
-  <li>🚀 <strong>Status:</strong> Coding | Debugging | Exploring</li>
-<div style="background-color:#1a1a1a; color:white; padding:20px; border-radius:10px;">
-
-  <h2 style="color:#50fa7b; font-family:monospace;">💻 [ SYSTEM INFORMATION ] 💻</h2>
 
 
 ---
