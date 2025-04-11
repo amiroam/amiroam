@@ -27,7 +27,6 @@
 ---
 <div align=center> <h2 style="color:#50fa7b; font-family:monospace; ">💻 [ SYSTEM INFORMATION ] 💻</h2></div>
 
-
   <p style="font-family:monospace; font-size:16px;">Here’s a snapshot of my system information:</p>
 
   <ul style="font-family:monospace; font-size:16px; list-style:none; padding:0;">
