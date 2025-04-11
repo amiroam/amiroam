@@ -9,17 +9,50 @@
 ╚═╝      ╚═════╝ ╚═╝     ╚══════╝╚═╝  ╚═══╝╚═╝╚═╝     ╚═╝
 ```
 
+
+<h1 style="color:#f8f8f2; font-family:monospace; font-size:30px;">
+👾 [ SYSTEM INITIALIZED SUCCESSFULLY ] 👾
+</h1>
+</div>
+<dive>
+  <p style="color: #f8f8f2; font-family:monospace; font-size:18px;text-align: left;">
+  <strong>Greetings, Traveler! 👋</strong>
+</p>
+  <p style="color: #f8f8f2; font-family:monospace; font-size:18px;text-align: left;">
+  I’m <strong>Amir</strong>, a coder with a passion for solving complex challenges and bringing retro vibes to modern solutions.
+</p>
+</dive>
+
+---
+<div align=center> <h2 style="color:#50fa7b; font-family:monospace; ">💻 [ SYSTEM INFORMATION ] 💻</h2></div>
+
+
+<ul style="font-family:monospace; font-size:16px;">
+  <li>🔧 <strong>Name:</strong> Amir</li>
+  <li>🚀 <strong>Status:</strong> Coding | Debugging | Exploring</li>
+  <li>🛠️ <strong>Languages & Tools:</strong> 
+    <img src="https://img.shields.io/badge/-C%23-black?style=flat-square&logo=c-sharp&logoColor=white" alt="C#">
+    <img src="https://img.shields.io/badge/-NHibernate-black?style=flat-square&logo=hibernate&logoColor=white" alt="NHibernate">
+    <img src="https://img.shields.io/badge/-SQL%20Server-black?style=flat-square&logo=microsoft-sql-server&logoColor=white" alt="SQL Server">
+    <img src="https://img.shields.io/badge/-.NET-black?style=flat-square&logo=dotnet&logoColor=white" alt=".NET">
+    <img src="https://img.shields.io/badge/-Postman-black?style=flat-square&logo=postman&logoColor=white" alt="Postman">
+    <img src="https://img.shields.io/badge/-JMeter-black?style=flat-square&logo=apache-jmeter&logoColor=white" alt="JMeter">
+    <img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git&logoColor=white" alt="Git">
+    <img src="https://img.shields.io/badge/-xUnit-black?style=flat-square&logo=dotnet&logoColor=white" alt="xUnit">
+    <img src="https://img.shields.io/badge/-VSCode-black?style=flat-square&logo=visual-studio-code&logoColor=white" alt="VSCode">
+    <img src="https://img.shields.io/badge/-Jira-black?style=flat-square&logo=jira&logoColor=white" alt="Jira">
+  </li>
+</ul>
+
 </div>
 
 ---
-## 👾 [ SYSTEM INITIALIZED SUCCESSFULLY ] 👾
-Greetings, Traveler! 👋 I’m **Amir**, a coder with a passion for solving complex challenges and bringing retro vibes to modern solutions. Here's my retro workstation, enhanced with visuals and interactive elements.
-
+⚙️ **Tools:** ![Visual Studio Code](https://img.shields.io/badge/-VSCode-blue?style=flat-square&logo=visual-studio-code&logoColor=white) ![Git](https://img.shields.io/badge/-Git-red?style=flat-square&logo=git&logoColor=white) ![Postman](https://img.shields.io/badge/-Postman-orange?style=flat-square&logo=postman&logoColor=white)  
 ---
 ## 📊 Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=amiroam&show_icons=true&theme=radical&hide_border=true" height="150" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=amiroam&radius=15&theme=nightowl&area=true&order=5&custom_title=My%20activity%20graph" height="250" alt="activity-graph graph"  />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=amiroam&theme=radical&hide_border=true" height="150" />
 </div>
 
@@ -34,36 +67,9 @@ Greetings, Traveler! 👋 I’m **Amir**, a coder with a passion for solving com
 ---
 
 ## 🎯 Progress Tracker
-
-```shell
-amiroam@github:~$ ./track-progress.sh
-```
-
-### 🚀 Current Goals:
-- **Contribute to 10 open-source projects:**  
-  ![50%](https://progress-bar.dev/50/?title=Progress&width=300&color=blue)
-
-- **Build 3 retro-themed apps:**  
-  ![33%](https://progress-bar.dev/33/?title=Progress&width=300&color=green)
-
-- **Reach 500 GitHub stars:**  
-  ![20%](https://progress-bar.dev/20/?title=Progress&width=300&color=purple)
-
+---
 ---
 
-## 🎶 Now Playing
-
-```shell
-amiroam@github:~$ ./spotify-now-playing
-```
-
-<div align="center">
-  <a href="https://open.spotify.com/user/yourSpotifyID">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=yourSpotifyID&count=1" alt="Spotify Now Playing" />
-  </a>
-</div>
-
----
 
 <div align="center">
   <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" height="150" />
@@ -71,23 +77,7 @@ amiroam@github:~$ ./spotify-now-playing
 
 
 
-<div align="center">
 
-# █▀▀ █── █▀▀ █▀▀█ █▀▀▄    █▀▄▀█ █▀▀█ █▀▀▄ █▀▀▄ █▀▀█  
-# █▀▀ █── █▀▀ █▄▄█ █──█    █─▀─█ █──█ █──█ █──█ █▄▄█  
-# ▀── ▀▀▀ ▀▀▀ ▀──▀ ▀▀▀─    ▀───▀ ▀▀▀▀ ▀▀▀─ ▀──▀ ▀──▀  
-
-<h1 style="color:#f8f8f2; font-family:monospace; font-size:30px;">
-👾 [ SYSTEM INITIALIZED SUCCESSFULLY ] 👾
-</h1>
-
-<p style="color: #f8f8f2; font-family:monospace; font-size:18px;">
-Greetings, Traveler! 👋 I’m <strong>Amir</strong>, a coder with a passion for solving complex challenges and bringing retro vibes to modern solutions. Welcome to the dark side of my terminal-inspired GitHub profile.
-</p>
-
-</div>
-
----
 
 <div style="background-color:#000000; color:white; padding:20px; border-radius:10px;">
 
@@ -192,8 +182,8 @@ Greetings, Traveler! 👋 I’m <strong>Amir</strong>, a coder with a passion fo
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=amiroam&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=aura&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=amiroam&locale=en&mode=weekly&theme=aura&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=amiroam&radius=15&theme=nightowl&area=true&order=5&custom_title=My%20activity%20graph" height="250" alt="activity-graph graph"  />
+  <img src="https://streak-stats.demolab.com?username=amiroam&locale=en&mode=weekly&theme=aura&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+
   <img src="https://github-profile-trophy.vercel.app?username=amiroam&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
 </div>
 
