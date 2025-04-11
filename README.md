@@ -9,7 +9,7 @@
 ╚═╝      ╚═════╝ ╚═╝     ╚══════╝╚═╝  ╚═══╝╚═╝╚═╝     ╚═╝
 ```
 
-
+</div>
 <h1 style="color:#f8f8f2; font-family:monospace; font-size:30px;">
 👾 [ SYSTEM INITIALIZED SUCCESSFULLY ] 👾
 </h1>
@@ -95,11 +95,14 @@
 
 
 ---
-## 📊 Stats
 
+<div style="background-color:#1a1a1a; color:white; padding:20px; border-radius:10px;">
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=amiroam&radius=15&theme=nightowl&area=true&order=5&custom_title=My%20activity%20graph" height="250" alt="activity-graph graph"  />
+  <h2 style="color:#8be9fd; font-family:monospace;">📊 [  Stats ] 📊 </h2>
+</div>
+<div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=amiroam&theme=radical&hide_border=true" height="150" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=amiroam&radius=15&theme=nightowl&area=true&order=5&custom_title=My%20activity%20graph" height="250" alt="activity-graph graph"  />
 </div>
 
 ---
@@ -120,12 +123,11 @@
 </div>
 <div>
   <ul style="font-family:monospace; font-size:16px; list-style:none; padding:0; margin:0;">
-    <li>📧 <strong>Email:</strong> <a href="mailto:amir@email.com" style="color:#ff79c6;">amir@email.com</a></li>
-    <li>🌐 <strong>Website:</strong> <a href="https://amiryourwebsite.com" style="color:#ff79c6;">Retro Terminal</a></li>
-    <li>💼 <strong>LinkedIn:</strong> <a href="https://linkedin.com/in/amirusername" style="color:#ff79c6;">linkedin.com/in/amirusername</a></li>
-    <li>🐦 <strong>Twitter:</strong> <a href="https://twitter.com/amirusername" style="color:#ff79c6;">@amirusername</a></li>
-    <li>📸 <strong>Instagram:</strong> <a href="https://instagram.com/amirartprofile" style="color:#ff79c6;">@amirartprofile</a></li>
-    <li>💻 <strong>GitHub:</strong> <a href="https://github.com/amiryourgithub" style="color:#ff79c6;">github.com/amiryourgithub</a></li>
+    <li>📧 <strong>Email:</strong> <a href="mailto:amirsalimi1394@gmail.com" style="color:#ff79c6;">amirsalimi1394@gmail</a></li>
+    <li>💼 <strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/amir-salimi-58bb202b5" style="color:#ff79c6;">amir salimi</a></li>
+    <li>🐦 <strong>Twitter:</strong> <a href="https://twitter.com/minimumpleasure" style="color:#ff79c6;">@minimumpleasure</a></li>
+    <li>📸 <strong>Instagram:</strong> <a href="https://instagram.com/amiro_salimi" style="color:#ff79c6;">@amiro_salimi</a></li>
+    <li>💻 <strong>GitHub:</strong> <a href="https://github.com/amiroam" style="color:#ff79c6;">github.com/amiroam</a></li>
   </ul>
 
 </div>
