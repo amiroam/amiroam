@@ -110,7 +110,7 @@
 <div>
   <ul style="font-family:monospace; font-size:16px; list-style:none; padding:0; margin:0;">
     <li>📧 <strong>Email:</strong> <a href="mailto:amirsalimi1394@gmail.com" style="color:#ff79c6;">amirsalimi1394@gmail</a></li>
-    <li>💼 <strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/amir-salimi-58bb202b5" style="color:#ff79c6;">amir salimi</a></li>
+    <li>💼 <strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/amir-h-salimi" style="color:#ff79c6;">www.linkedin.com/in/amir-h-salimi</a></li>
     <li>🐦 <strong>Twitter:</strong> <a href="https://twitter.com/minimumpleasure" style="color:#ff79c6;">@minimumpleasure</a></li>
     <li>📸 <strong>Instagram:</strong> <a href="https://instagram.com/amiro_salimi" style="color:#ff79c6;">@amiro_salimi</a></li>
     <li>💻 <strong>GitHub:</strong> <a href="https://github.com/amiroam" style="color:#ff79c6;">github.com/amiroam</a></li>
