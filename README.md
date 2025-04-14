@@ -11,7 +11,7 @@
 
 ```
 </div>
-<h1 style="color:#f8f8f2; font-family:monospace; font-size:30px;">
+<div align=center><h1 style="color:#f8f8f2; font-family:monospace; font-size:30px;">
 👾 [ SYSTEM INITIALIZED SUCCESSFULLY ] 👾
 </h1>
 </div>
